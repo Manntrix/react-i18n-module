@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+select {
+  border: 1px solid #EEE;
+  border-radius: .25rem;
+  padding: .5rem 1.5rem .5rem .5rem;
+  display: flex;
+  background-color: white;
+  outline: 0;
+  cursor: pointer;
+  appearance: none;
+  margin: 80px auto 0 auto;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
